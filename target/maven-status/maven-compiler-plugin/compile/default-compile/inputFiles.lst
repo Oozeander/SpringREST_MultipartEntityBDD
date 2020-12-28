@@ -1,0 +1,11 @@
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\config\WebAppInitializer.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\exception\UserNotFoundException.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\model\embeddable\Image.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\config\DataJpaConfig.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\repository\UserRepository.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\config\RestConfig.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\config\JavaConfig.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\model\User.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\service\impl\UserServiceImpl.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\resource\UserResource.java
+C:\Users\bille\Documents\Java\SpringREST_MultipartEntityBDD\src\main\java\com\oozeander\service\UserService.java

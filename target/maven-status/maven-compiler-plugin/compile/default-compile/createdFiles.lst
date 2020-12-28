@@ -1,0 +1,11 @@
+com\oozeander\model\User.class
+com\oozeander\repository\UserRepository.class
+com\oozeander\config\DataJpaConfig.class
+com\oozeander\config\JavaConfig.class
+com\oozeander\model\embeddable\Image.class
+com\oozeander\service\UserService.class
+com\oozeander\service\impl\UserServiceImpl.class
+com\oozeander\resource\UserResource.class
+com\oozeander\config\RestConfig.class
+com\oozeander\exception\UserNotFoundException.class
+com\oozeander\config\WebAppInitializer.class
